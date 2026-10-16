@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825998317631",
+    "project_id": "vitexol-app",
+    "storage_bucket": "vitexol-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825998317631:android:19b51e055bead7572d008a",
+        "android_client_info": {
+          "package_name": "com.example.vitexol_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4vB2bibBGglYN5Vv6cc4YLBAiOqKTrdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
